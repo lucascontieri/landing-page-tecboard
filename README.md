@@ -1,4 +1,3 @@
----
 <h1 align="center">Landing Page TecBoard</h1>
 
 Projeto desenvolvido durante o **curso de Front-End da Alura**, com o objetivo de construir uma landing page estática responsiva utilizando **HTML** e **CSS**.
